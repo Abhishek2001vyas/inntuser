@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "321243157659",
+    "firebase_url": "https://innt-6700e-default-rtdb.firebaseio.com",
+    "project_id": "innt-6700e",
+    "storage_bucket": "innt-6700e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321243157659:android:ddbd901c1e46321c8f223e",
+        "android_client_info": {
+          "package_name": "com.example.inntuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArsQnDJ5T01r1Q_UkvGJ-HWXOhHaW2Zrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321243157659:android:7d38763700c0271a8f223e",
+        "android_client_info": {
+          "package_name": "com.innt.vender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArsQnDJ5T01r1Q_UkvGJ-HWXOhHaW2Zrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

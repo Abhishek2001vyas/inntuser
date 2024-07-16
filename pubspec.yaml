@@ -1,0 +1,135 @@
+name: inntuser
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: any
+  change_app_package_name: any
+  get: any
+  dotted_border: any
+  animated_splash_screen: any
+  intl_phone_field: any
+  shared_preferences: any
+  pinput: any
+  image_picker: any
+  intl: any
+  animated_bottom_navigation_bar: any
+  carousel_slider: any
+  chat_bubbles: any
+  flutter_svg_provider: any
+  flutter_svg: any
+  youtube_player_flutter: any
+  share_plus: any
+  flutter_switch: any
+  staggered_grid_view_flutter: any
+  cool_alert: any
+  flutter_rating_bar: any
+  flutter_profile_picture: any
+  geocoding: any
+  geolocator: any
+  google_maps_flutter: any
+#  flutter_google_places_sdk: any
+  fluttertoast: any
+  cached_network_image: any
+  flutter_phone_direct_caller: any
+  url_launcher: any
+  animated_read_more_text: any #^0.0.6
+  flutter_html: any
+  widget_zoom: any
+  qr: any
+  qr_flutter: any
+  permission_handler: any
+  video_player: any
+  custom_refresh_indicator: any
+  file_picker: any
+  audioplayers: any
+  flutter_chat_bubble: any
+  vengamo_chat_ui: any
+  permission_handler_web: any
+  pretty_qr_code: any
+  google_sign_in: any
+  local_auth: any
+  firebase_core: any
+  firebase_auth: any
+  firebase_messaging: any
+  firebase_database: any
+  firebase_storage: any
+  cloud_firestore: any
+  flutter_local_notifications: any
+#  flutter_facebook_auth: any
+  flutter_login_facebook: ^2.0.1
+#  flutter_animate: any
+#  flutter_gif: any
+#  gif_view: any
+  scan: any
+  animated_text_kit: any
+  http: any
+  http_parser: any
+  page_transition: any
+
+  external_path: ^1.0.3
+  screenshot: ^3.0.0
+  flutter_zxing: ^1.7.0
+  image: ^4.2.0
+
+  flutter_localizations:
+    sdk: flutter
+  firebase_dynamic_links: ^6.0.2
+
+#dependency_overrides:
+##  screenshot: ^3.0.0
+###  qr_code_scanner: ^1.0.1
+##  flutter_zxing: any
+
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/imagess/
+
